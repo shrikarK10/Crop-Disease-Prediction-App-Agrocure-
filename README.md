@@ -201,11 +201,11 @@ flutter build ios --release
 5. Open a Pull Request
 
 
-## 👥 Authors
+## 👥 Authors and Contribution
 
-- **Shrikar Kolte** - *Data Preparation and Model Building* - [YourGitHub](https://github.com/shrikarK10)
-- **Robin Wadekar** - *Android App Design and Model Integration* - [YourGitHub](https://github.com/RobinWadekar)
-- **Yash Shivatare** - *API Mangement and Integration* - [YourGitHub](https://github.com/yashivatare)
+- **Shrikar Kolte** - *Data Preparation and Model Building* - [GitHub](https://github.com/shrikarK10)
+- **Robin Wadekar** - *Android App Design and Model Integration* - [GitHub](https://github.com/RobinWadekar)
+- **Yash Shivatare** - *API Mangement and Integration* - [GitHub](https://github.com/yashivatare)
 
 ## 🙏 Acknowledgments
 
